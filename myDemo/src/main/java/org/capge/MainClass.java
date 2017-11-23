@@ -11,6 +11,8 @@ public class MainClass {
 	public static void greetings()
 	{
 		System.out.println("hello world hai");
+		System.out.println("hello world Rajesh");
+		System.out.println("hello world raj");
 	}
 
 }
